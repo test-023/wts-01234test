@@ -1,0 +1,6 @@
+{
+    "presets": [
+      "@babel/preset-es2016",
+      "@babel/preset-env"
+    ]
+  }
